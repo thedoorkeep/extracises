@@ -1,34 +1,15 @@
-.container {
-  width: 367px;
-  margin: auto;
-}
-
-.text {
-  font-family: sans-serif;
-}
-
 .top-nav {
-  height: 50px;
+  margin-top:50px;
 }
 
-.center {
+h4 {
   text-align: center;
 }
 
-.body {
-  text-align: center;
+.circle-img{
+  width: 130px;
 }
 
-.title {
-  margin-top: 25px;
-  margin-bottom: 25px;
-}
-
-.content {
-  margin-top: 75px;
-  margin-bottom: 25px;
-}
-
-.footer {
-  background-color: green;
+.hamburger{
+  width: 50px;
 }
